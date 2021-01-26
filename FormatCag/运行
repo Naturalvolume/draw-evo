@@ -1,0 +1,5 @@
+build文件夹 ./Format /home/zbq/datasets/Format   成功把图片改了名字啊啊啊啊 不过因为图片是130张 所以只判断了 ni/10 ni/100
+Format:orb的tum数据集转换为dso能用的
+Format2：将000001变为00001（好像% 得改为/才行）
+Format3：将1 变为00001（好像有错 1000和2000没有被正确的转换）
+Format4： "image0" 变成00001 师姐的程序会有image 固定的 1000 2000的问题还没暴露 因为照片都很少
