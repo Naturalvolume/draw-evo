@@ -2,6 +2,8 @@
 - exect_image.py 是从视频中提取图片成kitti数据集格式, 使用前需要更改视频文件位置, 和图片保存位置
 - kitti_poses_to_tum.py 把kitti格式轨迹转换成tum格式的, 便于进行轨迹对照
 - experiment_meaning.md 画图以及数据解释
+- all_command.md 是所有更改过后代码的命令
+- project_thought.md 毕设想法
 - FormatCag 是师姐留下来的格式转换工具
 - eval.py 是修改后保存掩码位置的yolact代码
 ```
